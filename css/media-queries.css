@@ -1,0 +1,68 @@
+@media (max-width: 1680px) {
+  .sub__sale {
+    width: 100%;
+    height: 200px;
+  }
+
+  .beg__block {
+    width: 350px;
+  }
+  .sub__sale {
+    width: 100%;
+    height: 200px;
+  }
+
+  .beg__block {
+    width: 353px;
+  }
+  .price__norm {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .big__good__text .price {
+    margin-top: 5%;
+  }
+}
+
+@media (max-width: 1440px) {
+  .goods .good {
+    width: 49.5%;
+  }
+  .price__title {
+    font-size: 20px;
+  }
+  .price__sale {
+    font-size: 25px;
+  }
+  .price__norm {
+    font-size: 30px;
+  }
+}
+@media (max-width: 1510px) {
+  .big__good {
+    width: 100%;
+  }
+  .big__good__par {
+    font-size: 20px;
+  }
+  .big__price {
+    margin-top: 50px;
+  }
+  .big__price .price__title {
+    font-size: 20px;
+  }
+  .big__price .price__sale {
+    font-size: 25px;
+  }
+  .big__price .price__norm {
+    font-size: 30px;
+  }
+  .goods2__r {
+    width: 100%;
+  }
+  .goods2__r__h.good {
+    width: 49.5%;
+  }
+}
